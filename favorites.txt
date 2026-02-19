@@ -1,5 +1,7 @@
-Name: Meredith 
+Name: George
 
-My favorite color is: red
+My favorite color is: grey
 
-My favorite animal is: dophin
+My favorite animal is: geese
+
+My favorite school is: Drake University
