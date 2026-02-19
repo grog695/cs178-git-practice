@@ -3,5 +3,8 @@ Name: George
 My favorite color is: grey
 
 My favorite animal is: geese
+<<<<<<< HEAD
 
 My favorite school is: Drake University
+=======
+>>>>>>> ad31a7b480a341932347472cfa0a8df66c2a7639
